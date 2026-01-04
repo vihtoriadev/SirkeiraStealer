@@ -1,0 +1,17 @@
+browser-cookie3==0.20.1
+certifi==2025.11.12
+cffi==2.0.0
+charset-normalizer==3.4.4
+cryptography==46.0.3
+idna==3.11
+lz4==4.4.5
+numpy==2.2.6
+opencv-python==4.12.0.88
+psutil==7.2.1
+pycparser==2.23
+pycryptodomex==3.23.0
+pywin32==311
+requests==2.32.5
+shadowcopy==0.0.4
+urllib3==2.6.2
+WMI==1.5.1
